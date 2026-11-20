@@ -1,3 +1,9 @@
+> **ASC Team fork.** This is a study copy of published ASC Student Supercomputer Challenge materials. It is not an official ASC Committee repository, and it is not a university endorsement.
+>
+> - Contest: ASC19 (2019) preliminary
+> - Upstream: https://github.com/ASC-Competition/ASC19-SISR
+> - Year and original name are recorded in [SOURCE.md](SOURCE.md).
+
 # ASC-SISR
 Validation imges for ASC19 preliminary single image super resolution challenge
 
